@@ -317,11 +317,11 @@ export const mockUserProfile = {
 
 // 热门目的地数据
 export const mockDestinations = [
-  { id: 1, name: '西安', image: 'https://images.unsplash.com/photo-1583473868889-f9d040e727d1?w=400', tags: ['历史文化', '美食'], popularity: 9.5 },
-  { id: 2, name: '成都', image: 'https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?w=400', tags: ['美食', '悠闲'], popularity: 9.3 },
-  { id: 3, name: '重庆', image: 'https://images.unsplash.com/photo-1568084680786-a84f91d1153c?w=400', tags: ['网红', '美食'], popularity: 9.2 },
-  { id: 4, name: '兰州', image: 'https://images.unsplash.com/photo-1559204479-9e8a47e3345c?w=400', tags: ['美食', '文化'], popularity: 8.8 },
-  { id: 5, name: '武汉', image: 'https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=400', tags: ['美食', '高校'], popularity: 8.5 }
+  { id: 1, name: '西安', image: 'https://picsum.photos/seed/xian/400/300', tags: ['历史文化', '美食'], popularity: 9.5 },
+  { id: 2, name: '成都', image: 'https://picsum.photos/seed/chengdu/400/300', tags: ['美食', '悠闲'], popularity: 9.3 },
+  { id: 3, name: '重庆', image: 'https://picsum.photos/seed/chongqing/400/300', tags: ['网红', '美食'], popularity: 9.2 },
+  { id: 4, name: '兰州', image: 'https://picsum.photos/seed/lanzhou/400/300', tags: ['美食', '文化'], popularity: 8.8 },
+  { id: 5, name: '武汉', image: 'https://picsum.photos/seed/wuhan/400/300', tags: ['美食', '高校'], popularity: 8.5 }
 ];
 
 // 优惠套餐数据
