@@ -1,3 +1,7 @@
+# 项目名称
+
+[点击这里查看网页预览](sslocal://flow/file_open?url=https://travel-buddy-nu-gray.vercel.app/)
+
 # 踹踹APP Demo - 大学生旅行搭子匹配平台
 
 ## 📱 项目简介
